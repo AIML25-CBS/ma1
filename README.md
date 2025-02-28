@@ -5,9 +5,9 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Emil Stausbøl | 152025 |
+| Simon Hjorth Jensen | 153308 |
+
 
 ***
 
